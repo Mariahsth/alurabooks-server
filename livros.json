@@ -1,23 +1,23 @@
 [
     {
       "id": "4",
-      "nome": "Entendendo algoritmos"
+      "nome": "Liderança em Design"
     },
     {
       "id": "5",
-      "nome": "Cangaceiro Javascript"
+      "nome": "Javascript Assertivo"
     },
     {
       "id": "7",
-      "nome": "Guia básico de C#"
+      "nome": "Guia Front-End"
     },
     {
       "id": "8",
-      "nome": "Guia básico de JavaScript"
+      "nome": "Lógica de programação com Portugol"
     },
     {
       "id": "9",
-      "nome": "Código Limpo"
+      "nome": "Apache Kafka e Spring Boot"
     },
     {
       "id": "10",
@@ -29,6 +29,6 @@
     },
     {
       "id": "12",
-      "nome": "Imersão Alura"
+          "nome": "Acessibilidade na Web"
     }
   ]
